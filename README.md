@@ -1,17 +1,20 @@
-# Java Swing Application
+# Java Swing Quiz Application
 
 ## Description
-A brief description of what your application does.
+This application uses Mysql database to store the student information like name, registration no. and marks. The student can attend the quiz and score would be displayed. 
 
 ## Installation
 Instructions on how to set up and run your project.
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/valinamendonca/Quiz-App-Java-Swings.git
 
 # Navigate to the project directory
-cd your-repo-name
+cd Quiz-App-Java-Swings
+
+#Set up the database
+Set up ur database username, password and name in the Connection.java file.
 
 # Compile the Java files
 javac -d bin src/*.java
