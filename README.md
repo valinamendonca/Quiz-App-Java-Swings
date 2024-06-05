@@ -21,3 +21,12 @@ javac -d bin src/*.java
 
 # Run the application
 java -cp bin com.yourpackage.MainClass
+
+## Screenshots
+Here are some screenshots of the application:
+
+![Starting Page](img/Screenshot 2024-04-19 000031.png)
+![Login Page](img/Screenshot 2024-04-19 000127.png)
+![Quiz Form](img/Screenshot 2024-04-19 000221.png)
+![Quiz Form](img/Screenshot 2024-04-19 000240.png)
+![Score Page](img/Screenshot 2024-04-19 000328.png)
