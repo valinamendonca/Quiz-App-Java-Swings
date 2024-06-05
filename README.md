@@ -21,6 +21,7 @@ javac -d bin src/*.java
 
 # Run the application
 java -cp bin com.yourpackage.MainClass
+```
 
 ## Screenshots
 Here are some screenshots of the application:
